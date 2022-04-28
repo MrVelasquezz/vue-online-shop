@@ -1,0 +1,92 @@
+{
+  "main": {
+    "header":{
+      "nav_links":{
+        "work": "Arbeit",
+        "about": "Über uns",
+        "menu": "Spezialitäten",
+        "delivery": "Lieferung"
+      },
+      "title": "Bestellte die besten Köstlichkeiten aus der Küche der Großmutter.",
+      "slogan": "Wir haben große Portionen für tolle Leute.",
+      "order_now_btn": "Jetzt bestellen",
+      "work_time": "von {start_time} bis {end_time}",
+      "work_days": "{start_day} - {end_day}"
+    },
+    "menu": {
+      "title": "Unsere spezialitäten",
+      "api_statuses": {
+
+      },
+      "categories": {
+          "sides": "Sides",
+          "soups": "Soup",
+          "salads": "Salads",
+          "drinks": "Drinks",
+          "deserts": "Deserts",
+          "all": "All"
+      },
+      "show_more_btn": "Mehr zeigen "
+    },
+    "zones": {
+      "title": "Lieferung",
+      "components": [
+        {
+            "title": "Grüne Zone",
+            "text": ["Estimated delivery time 55 minutes", "When ordering from 250 UAH we will bring it for FREE", "When ordering up to 250 UAH delivery cost 60 UAH"],
+            "img": "green-zone.svg"
+        }, 
+        {
+            "title": "Gelbe Zone",
+            "text": ["Estimated delivery time 55 minutes", "When ordering from 250 UAH we will bring it for FREE", "When ordering up to 250 UAH delivery cost 60 UAH"],
+            "img": "yellow-zone.svg"
+        },
+        {
+            "title": "Rote Zone",
+            "text": ["Estimated delivery time 55 minutes", "When ordering from 250 UAH we will bring it for FREE", "When ordering up to 250 UAH delivery cost 60 UAH"],
+            "img": "red-zone.svg"
+        }
+    ]
+    },
+    "payments": {
+      "title": "Zahlung Methode",
+      "components": [
+        {
+            "title": "Mit PayPal zahlen",
+            "text": "Pay for your order online using the PayPal service on the website.",
+            "img": "paypal.svg"
+        }, 
+        {
+            "title": "Mit Carte zahlen",
+            "text": "Our courier has terminal and accepts card for payment.",
+            "img": "card.svg"
+        },
+        {
+            "title": "Mit Bargeld zahlen",
+            "text": "Pay cash when you pick up your order. Please remember to let us know in advance if you need the change.",
+            "img": "cash.svg"
+        }
+    ]
+    },
+    "benefits": {
+      "title": "Warum wir uns für RussianOma entscheiden?",
+      "components": [
+        {
+            "title": "Schnelle Lieferung",
+            "img": "delivery.svg"
+        }, 
+        {
+            "title": "Mit Liebe",
+            "img": "pan.svg"
+        },
+        {
+            "title": "Frisches Essen",
+            "img": "vegetables.svg"
+        }
+    ]
+    },
+    "footer": {
+
+    }
+  }
+}

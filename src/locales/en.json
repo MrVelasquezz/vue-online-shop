@@ -1,0 +1,92 @@
+{
+    "main": {
+        "header": {
+            "nav_links": {
+                "work": "Work",
+                "about": "About us",
+                "menu": "Menu",
+                "delivery": "Delivery"
+            },
+            "title": "Homemade. Delitious. Unforgattable",
+            "slogan": "Grandma knows, how to cook.",
+            "order_now_btn": "Order now",
+            "work_time": "from {start_time} to {end_time}",
+            "work_days": "{start_day}{end_day}"
+        },
+        "menu": {
+            "title": "Our menu",
+            "api_statuses": {
+
+            },
+            "categories": {
+                "sides": "Sides",
+                "soups": "Soups",
+                "salads": "Salads",
+                "drinks": "Drinks",
+                "deserts": "Deserts",
+                "all": "All"
+            },
+            "show_more_btn": "Show more"
+        },
+        "zones": {
+            "title": "Delivery",
+            "components": [
+                {
+                    "title": "To 2 km.",
+                    "text": ["Estimated delivery time 10-25 minutes", "Price - 2.2 Euro"],
+                    "img": "green-zone.svg"
+                }, 
+                {
+                    "title": "To 3 km.",
+                    "text": ["Estimated delivery time 25-30 minutes", "Price - 3.3 Euro"],
+                    "img": "yellow-zone.svg"
+                },
+                {
+                    "title": "4-5 km.",
+                    "text": ["Estimated delivery time 30-35 minutes", "Prices from 3.8 to 4.8"],
+                    "img": "red-zone.svg"
+                }
+            ]
+        },
+        "payments": {
+            "title": "Payment methods",
+            "components": [
+                {
+                    "title": "Pay with PayPal",
+                    "text": "Pay anonymously using one of the most popular payment methods. Elon Musk will approve of your choice.",
+                    "img": "paypal.svg"
+                }, 
+                {
+                    "title": "Pay with credit card",
+                    "text": "Standard online payment method.",
+                    "img": "card.svg"
+                },
+                {
+                    "title": "Pay cash",
+                    "text": "You can pay in cash to our couriers. Please select this method only if you are confident in your order.",
+                    "img": "cash.svg"
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Why we choose RussianOMA?",
+            "components": [
+                {
+                    "title": "Fast delivery",
+                    "img": "delivery.svg"
+                }, 
+                {
+                    "title": "Made with love",
+                    "img": "pan.svg"
+                },
+                {
+                    "title": "Delitious",
+                    "img": "vegetables.svg"
+                }
+            ]
+        },
+        "footer": {
+
+        }
+    }
+}

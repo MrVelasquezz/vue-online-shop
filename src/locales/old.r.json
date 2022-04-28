@@ -1,0 +1,92 @@
+{
+    "main": {
+        "header": {
+            "nav_links": {
+                "work": "Work",
+                "about": "About us",
+                "menu": "Menu",
+                "delivery": "Delivery"
+            },
+            "title": "Ordered the best delicacies from the grandmother's kitchen.",
+            "slogan": "We have large portions for great people.",
+            "order_now_btn": "Order now",
+            "work_time": "from {start_time} to {end_time}",
+            "work_days": "{start_day} - {end_day}"
+        },
+        "menu": {
+            "title": "Our menu",
+            "api_statuses": {
+
+            },
+            "categories": {
+                "sides": "Sides",
+                "soups": "Soup",
+                "salads": "Salads",
+                "drinks": "Drinks",
+                "deserts": "Deserts",
+                "all": "All"
+            },
+            "show_more_btn": "Show more"
+        },
+        "zones": {
+            "title": "Delivery",
+            "components": [
+                {
+                    "title": "Green zone",
+                    "text": ["Estimated delivery time 55 minutes", "When ordering from 250 UAH we will bring it for FREE", "When ordering up to 250 UAH delivery cost 60 UAH"],
+                    "img": "green-zone.svg"
+                }, 
+                {
+                    "title": "Yellow zone",
+                    "text": ["Estimated delivery time 55 minutes", "When ordering from 250 UAH we will bring it for FREE", "When ordering up to 250 UAH delivery cost 60 UAH"],
+                    "img": "yellow-zone.svg"
+                },
+                {
+                    "title": "Red zone",
+                    "text": ["Estimated delivery time 55 minutes", "When ordering from 250 UAH we will bring it for FREE", "When ordering up to 250 UAH delivery cost 60 UAH"],
+                    "img": "red-zone.svg"
+                }
+            ]
+        },
+        "payments": {
+            "title": "Payment methods",
+            "components": [
+                {
+                    "title": "Pay with PayPal",
+                    "text": "Pay for your order online using the PayPal service on the website.",
+                    "img": "paypal.svg"
+                }, 
+                {
+                    "title": "Pay with credit card",
+                    "text": "Our courier has terminal and accepts card for payment.",
+                    "img": "card.svg"
+                },
+                {
+                    "title": "Pay cash",
+                    "text": "Pay cash when you pick up your order. Please remember to let us know in advance if you need the change.",
+                    "img": "cash.svg"
+                }
+            ]
+        },
+        "benefits": {
+            "title": "Why we are chosing RussianOma?",
+            "components": [
+                {
+                    "title": "Fast delivery",
+                    "img": "delivery.svg"
+                }, 
+                {
+                    "title": "With love",
+                    "img": "pan.svg"
+                },
+                {
+                    "title": "Fresh food",
+                    "img": "vegetables.svg"
+                }
+            ]
+        },
+        "footer": {
+
+        }
+    }
+}

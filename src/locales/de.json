@@ -1,0 +1,92 @@
+{
+  "main": {
+    "header":{
+      "nav_links":{
+        "work": "Arbeit",
+        "about": "Über uns",
+        "menu": "Speisekarte",
+        "delivery": "Lieferung"
+      },
+      "title": "Hausgemacht. Köstlich. Unvergesslich. .",
+      "slogan": "Oma weiß, wie man kocht.",
+      "order_now_btn": "Jetzt bestellen",
+      "work_time": "von {start_time} bis {end_time}",
+      "work_days": "{start_day}{end_day}"
+    },
+    "menu": {
+      "title": "Speisekarte",
+      "api_statuses": {
+
+      },
+      "categories": {
+          "sides": "Beilage",
+          "soups": "Suppen",
+          "salads": "Salate",
+          "drinks": "Getränke",
+          "deserts": "Nachspeisen",
+          "all": "Alles"
+      },
+      "show_more_btn": "Mehr zeigen "
+    },
+    "zones": {
+      "title": "Lieferung",
+      "components": [
+        {
+            "title": "Bis 2 km. von uns",
+            "text": ["Voraussichtliche Lieferungszeit 30 Min. ", "Liefeungskosten 2.2 Euro"], 
+            "img": "green-zone.svg"
+        }, 
+        {
+            "title": "Bis 3 km von uns.",
+            "text": ["Voraussichtliche Lieferungszeit 35 Min.", "Liefeungskosten 3.3 Euro"],
+            "img": "yellow-zone.svg"
+        },
+        {
+            "title": "Von 4 km bis 5 km von uns",
+            "text": ["Voraussichtliche Lieferungszeit 45-50 Min.", "Liefeungskosten von 3.8 bis 4.8 Euro"],
+            "img": "red-zone.svg"
+        }
+    ]
+    },
+    "payments": {
+      "title": "Zahlungsmethode",
+      "components": [
+        {
+            "title": "Mit PayPal",
+            "text": "Bezahlen Sie anonym mit einer der beliebtesten Zahlungsmethoden. Elon Musk wird Ihre Wahl bestätigen.",
+            "img": "paypal.svg"
+        }, 
+        {
+            "title": "Mit Kreditkarte",
+            "text": "Standard-Online-Zahlungsmethode.",
+            "img": "card.svg"
+        },
+        {
+            "title": "Mit Bargeld",
+            "text": "Sie können bei unseren Kurieren bar bezahlen. Bitte wählen Sie diese Methode nur, wenn Sie von Ihrer Bestellung überzeugt sind.",
+            "img": "cash.svg"
+        }
+    ]
+    },
+    "benefits": {
+      "title": "Warum wir uns für RussianOMA entscheiden?",
+      "components": [
+        {
+            "title": "Schnelle Auslieferung",
+            "img": "delivery.svg"
+        }, 
+        {
+            "title": "Alles mit Liebe gemacht",
+            "img": "pan.svg"
+        },
+        {
+            "title": "Frisches Essen",
+            "img": "vegetables.svg"
+        }
+    ]
+    },
+    "footer": {
+
+    }
+  }
+}

@@ -60,7 +60,7 @@
         },
         async created() {
             const loader = new Loader({
-                apiKey: 'AIzaSyC8tW_AZQJQLRCmefUwh88Hd-jdzg79Ffo',
+                apiKey: 'GOOGLE-API-KEY',
                 version: 'weekly'
             })
             loader.load().then(() => {
